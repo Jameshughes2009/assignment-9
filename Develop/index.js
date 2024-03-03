@@ -10,7 +10,27 @@ const questions = [
         type: `input`,
         name: 'github',
         message: `Enter Your Github Account Name`
-    }
+    },
+    {
+        type: `input`,
+        name: 'email',
+        message: `Enter Your Email Address`
+    },
+    {
+        type: `input`,
+        name: 'Doc Title',
+        message: `what is the title for the Repo`
+    },
+    {
+        type: 'input',
+        name: 'description',
+        message: 'Please type a short description of your project:',
+    },
+    {
+        type: 'input',
+        name: 'install',
+        message: 'What command should be run to install dependencies?',
+    },
 ];
 
 // TODO: Create a function to write README file

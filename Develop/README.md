@@ -5,7 +5,7 @@
 
 ## Description
 
-Testing for the night 
+This is my Assignment 9 work 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,7 +21,7 @@ Testing for the night
 
 To install please run 
 ```
-none
+npm i iquirer@^8.2
 ```
 
 ## Tests
@@ -41,9 +41,9 @@ undefined
 
 ## Questions
 
-If you have any questions or concerns, you may reach me at James.
+If you have any questions or concerns, you may reach me at Jameshughes2009@hotmail.com.
 
-To see my other projects, please view my GitHub profile: [Mors testing](https://github.com/Mors testing).
+To see my other projects, please view my GitHub profile: [Jameshughes2009](https://github.com/Jameshughes2009).
 
 ## License
     

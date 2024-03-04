@@ -18,7 +18,7 @@ const questions = [
     },
     {
         type: `input`,
-        name: 'Doc Title',
+        name: 'title',
         message: `what is the title for the Repo`
     },
     {

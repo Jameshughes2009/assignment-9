@@ -59,7 +59,7 @@ ${data.install}
 
 To test please run
 \`\`\`
-${data.tests}
+${data.testing}
 \`\`\`
 
 ## Usage

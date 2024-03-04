@@ -31,6 +31,11 @@ const questions = [
         name: 'install',
         message: 'What command should be run to install dependencies?',
     },
+    {
+        type: 'input',
+        name: 'testing',
+        message: 'What command should be run to test functionaility of the Program',
+    },
 ];
 
 // TODO: Create a function to write README file

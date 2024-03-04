@@ -5,7 +5,7 @@
 
 ## Description
 
-This is my Assignment 9 work 
+Java week 9
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,7 +13,8 @@ This is my Assignment 9 work
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Questions](#questions)
-- [License](#license)
+- 
+[License](#license)
 
 
 ## Installation
@@ -23,11 +24,11 @@ To install please run
 npm i iquirer@^8.2
 ```
 
-## Tests
+## Testings
 
 To test please run
 ```
-undefined
+node index.js
 ```
 
 ## Usage
@@ -40,9 +41,9 @@ undefined
 
 ## Questions
 
-If you have any questions or concerns, you may reach me at Jameshughes2009@hotmail.com.
+If you have any questions or concerns, you may reach me at Test.
 
-To see my other projects, please view my GitHub profile: [Jameshughes2009](https://github.com/Jameshughes2009).
+To see my other projects, please view my GitHub profile: [James](https://github.com/James).
 
 ## License
     

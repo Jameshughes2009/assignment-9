@@ -55,7 +55,7 @@ To install please run
 ${data.install}
 \`\`\`
 
-## Tests
+## Testings
 
 To test please run
 \`\`\`

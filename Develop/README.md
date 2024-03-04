@@ -13,8 +13,7 @@ This is my Assignment 9 work
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Questions](#questions)
-- 
-[License](#license)
+- [License](#license)
 
 
 ## Installation

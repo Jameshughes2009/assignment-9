@@ -39,13 +39,18 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What would this app be used for',
+        message: 'What is this app used for?',
     },
     {
         type: 'list',
         name: 'license',
-        message: 'What Licence would you like the REAMDME to list',
+        message: 'What Licence would you like the REAMDME to list?',
         choices: ['Github', 'UofT', 'McMaster', 'Tests', `ISC`]
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'What Helped the most in my creation of the assignemnt?',
     },
 ];
 

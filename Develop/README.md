@@ -5,7 +5,7 @@
 
 ## Description
 
-testing 
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app.  
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,7 +21,7 @@ testing
 
 To install please run 
 ```
-ask tutor again about this one!!!!!!
+Ask Prof About 
 ```
 
 ## Testings
@@ -33,15 +33,15 @@ Node index.js
 
 ## Usage
 
-Updateding readmefiles
+It a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
 
 ## Contributing
 
-Youtube videos
+Youtube and my Tutor Erik Hirsch
 
 ## Questions
 
-If you have any questions or concerns, you may reach me at james.
+If you have any questions or concerns, you may reach me at Jameshughes2009@hotmail.com.
 
 To see my other projects, please view my GitHub profile: [Jameshughes2009](https://github.com/Jameshughes2009).
 

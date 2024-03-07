@@ -45,7 +45,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What Licence would you like the REAMDME to list?',
-        choices: ['Github', 'UofT', 'McMaster', 'Tests', `ISC`]
+        choices: ['Mozilla Public License 2.0', 'MIT', 'Apache License 2.0', 'GNU AGPLv3', `ISC`]
     },
     {
         type: 'input',

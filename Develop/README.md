@@ -1,11 +1,11 @@
 
-![Badge for file](https://img.shields.io/badge/license-ISC-blue.svg)
+![Badge for file](https://img.shields.io/badge/license-Github-blue.svg)
 
 # Assignment-9
 
 ## Description
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app.  
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,23 +21,23 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 To install please run 
 ```
-Ask Prof About 
+npm i 
 ```
 
 ## Testings
 
-To test please run
+To test please run function
 ```
-Node index.js
+node index.js
 ```
 
 ## Usage
 
-It a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+It a command-line application that dynamically generates a professional       README.md file from a user's input using the Inquirer package
 
 ## Contributing
 
-Youtube and my Tutor Erik Hirsch
+d
 
 ## Questions
 
@@ -47,6 +47,6 @@ To see my other projects, please view my GitHub profile: [Jameshughes2009](https
 
 ## License
     
- This project is licensed under ISC
+ This project is licensed under Github
 
     

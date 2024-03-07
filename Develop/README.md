@@ -1,5 +1,5 @@
 
-![Badge for file](https://img.shields.io/badge/license-Github-blue.svg)
+![Badge for file](https://img.shields.io/badge/license-ISC-blue.svg)
 
 # Assignment-9
 
@@ -21,7 +21,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 To install please run 
 ```
-npm i 
+npm i
 ```
 
 ## Testings
@@ -33,11 +33,11 @@ node index.js
 
 ## Usage
 
-It a command-line application that dynamically generates a professional       README.md file from a user's input using the Inquirer package
+To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer packageLinks to an external site..
 
 ## Contributing
 
-d
+Youtube Videos and My UofT Tutor Erik Hirsch
 
 ## Questions
 
@@ -47,6 +47,6 @@ To see my other projects, please view my GitHub profile: [Jameshughes2009](https
 
 ## License
     
- This project is licensed under Github
+ This project is licensed under ISC
 
     

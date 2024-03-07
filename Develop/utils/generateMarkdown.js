@@ -57,7 +57,7 @@ ${data.install}
 
 ## Testings
 
-To test please run
+To test please run function
 \`\`\`
 ${data.tests}
 \`\`\`

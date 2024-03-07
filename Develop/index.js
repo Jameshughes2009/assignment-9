@@ -33,8 +33,19 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'testing',
+        name: 'tests',
         message: 'What command should be run to test functionaility of the Program',
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What would this app be used for',
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What Licence would you like the REAMDME to list',
+        choices: ['Github', 'UofT', 'McMaster', 'Tests', `ISC`]
     },
 ];
 
